@@ -39,7 +39,7 @@ export default function Hero() {
 
         <div className="hero__media">
           <Photo
-            alt="Фото репетитора"
+            alt="Фото"
             className="hero__photo"
             ratio="4 / 5"
           />

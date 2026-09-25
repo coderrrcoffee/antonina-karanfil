@@ -18,8 +18,7 @@ export default function AboutPage() {
       <section className="section section--tight">
         <div className="container about-grid">
           <Photo
-            alt="Фото репетитора"
-            caption={about.photoCaption}
+            alt="Фото"
             className="about-photo"
           />
           <Reveal>
